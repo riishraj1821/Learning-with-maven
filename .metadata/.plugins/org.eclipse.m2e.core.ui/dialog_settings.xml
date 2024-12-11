@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Learning Maven Project\sessions_in_jsp"/>
+			<item value="D:\Learning Maven Project\java_beans_overview\src\main\java\java_beans_overview\User.java"/>
+			<item value="D:\Learning Maven Project"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="Learning_Maven_projects.sessions_in_jsp"/>
+			<item value="Learning_Maven_projects.session_in_jsp"/>
+			<item value="Learning_Maven_projects.java_beans_with_web_form"/>
+			<item value="Learning_Maven_projects.java_beans_overview"/>
+			<item value="Learning_Maven_projects.form_under_servlet"/>
+			<item value="Learning_Maven_projects.form_under_JSP"/>
+			<item value="Learning_Maven_projects.Test_exercise"/>
+			<item value="Learning_Maven_projects.test_Exercise"/>
+			<item value="Learning_Maven_projects.Forward_And_Redirect_Under_JSP"/>
+			<item value="Learning_Maven_projects.Import_class_in_JSP_file"/>
+			<item value="Learning_Maven_projects.Import_class_into_JSP_file"/>
+		</list>
+		<list key="groupId">
+			<item value="Learning_Maven_projects"/>
+		</list>
+		<list key="artifactId">
+			<item value="sessions_in_jsp"/>
+			<item value="session_in_jsp"/>
+			<item value="java_beans_with_web_form"/>
+			<item value="java_beans_overview"/>
+			<item value="form_under_servlet"/>
+			<item value="form_under_JSP"/>
+			<item value="Test-exercise"/>
+			<item value="test_Exercise"/>
+			<item value="Forward_And_Redirect_Under_JSP"/>
+			<item value="Import_class_in_JSP_file"/>
+			<item value="Import_class_into_JSP_file"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Set Property</title>
+</head>
+<body>
+
+<jsp:useBean id="user" class="java_beans_overview.User" scope="session"></jsp:useBean>
+
+First Name: <jsp:setProperty property="firstName" name="user" value="rishi"/>
+<br/>
+Last Name: <jsp:setProperty property="lastName" name="user" value="Chhalotre"/>
+
+</body>
+</html>

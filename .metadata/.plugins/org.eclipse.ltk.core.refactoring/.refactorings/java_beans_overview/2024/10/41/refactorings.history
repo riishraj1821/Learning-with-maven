@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;java_beans_overview/src/main/webapp/detProperty.jsp&apos; to &apos;setProperty.jsp&apos;" description="Rename resource &apos;detProperty.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/detProperty.jsp" name="setProperty.jsp" stamp="1728547585164" updateReferences="true"/>
+</session>

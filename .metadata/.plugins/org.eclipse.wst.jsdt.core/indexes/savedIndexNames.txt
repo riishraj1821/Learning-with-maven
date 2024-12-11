@@ -1,0 +1,13 @@
+INDEX VERSION 1.4+D:\Learning Maven Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+335570116.index
+104922094.index
+263924590.index
+3948461699.index
+181047519.index
+1768268887.index
+2600148341.index
+723746248.index
+1680544016.index
+2242059033.index
+386254026.index
+1690552787.index

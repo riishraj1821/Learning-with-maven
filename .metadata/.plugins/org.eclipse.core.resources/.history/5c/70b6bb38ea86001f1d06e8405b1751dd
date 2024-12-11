@@ -1,0 +1,5 @@
+package java_beans_with_web_form;
+
+public class User {
+
+}
